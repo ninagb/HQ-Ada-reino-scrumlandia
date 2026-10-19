@@ -27,9 +27,9 @@ Para realizarem tudo isso, eles resolvem ir em busca da bruxa boa Ruby, conhecid
 
 ## Organização do trabalho
 
-O projeto segue o Scrum e o Kanban adaptados para a atuação de uma pessoa (trabalho individual), que acumula os papéis de Product Owner, Scrum Master e Developer. As tarefas são acompanhadas em um quadro Kanban com as colunas "A fazer", "Fazendo" e "Feito".
+O projeto segue o Scrum e o Kanban adaptados para apenas uma pessoa. A integrante acumula os papéis de Product Owner, Scrum Master e Developer. As tarefas são acompanhadas em um quadro Kanban com as colunas "A fazer", "Fazendo" e "Feito".
 
-A branch `main` guarda a versão estável da HQ, enquanto a branch `desenvolvimento` concentra o trabalho em andamento de cada sprint.
+Todo o conteúdo é desenvolvido na branch principal `main`, e a evolução do projeto a cada sprint pode ser acompanhada pelo histórico de commits do repositório.
 
 ## Observação
 
