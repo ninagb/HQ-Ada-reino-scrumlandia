@@ -43,3 +43,19 @@ O capítulo 4 tem mais páginas por ser o mais longo e cheio de ação. O capít
 ## Ferramentas de IA generativa
 
 As ilustrações serão geradas no ChatGPT e no Gemini, alternando entre as duas ferramentas. Para manter a coerência visual, todos os prompts começam com o mesmo texto padrão de estilo, usam as imagens oficiais dos personagens como referência e respeitam a proporção de altura definida em `personagens/proporcoes.md`.
+
+## Página de teste
+
+O formato foi testado no Canva com uma página montada a partir das imagens oficiais dos personagens e de um dos testes de estilo, incluindo um balão de fala e uma caixa de narração. O resultado está em `pagina-teste.png`.
+
+Medidas usadas na montagem (em milímetros, com margem de 10 mm e espaço de 6 mm entre os quadros):
+
+| Quadro | Largura | Altura |
+|---|---|---|
+| Metade inteira | 135,5 | 190 |
+| Parte de cima ou de baixo de uma metade dividida | 135,5 | 92 |
+| Página inteira | 277 | 190 |
+
+Fonte dos balões e da narração: Open Sans, tamanho 13.
+
+O teste mostrou que as molduras do Canva cortam as imagens que não estão na mesma proporção do quadro. Por isso, as ilustrações das cenas devem ser geradas na proporção do quadro em que serão usadas, conforme a tabela de proporção das imagens.
