@@ -42,6 +42,7 @@ Todo o conteúdo é desenvolvido na branch principal `main`, e a evolução do p
 - [Planejamento](sprints/sprint-1-planejamento.md)
 - [Reuniões diárias](sprints/sprint-1-daily.md)
 - [Review](sprints/sprint-1-review.md)
+- [Retrospectiva](sprints/sprint-1-retrospectiva.md)
 
 ### Definição de Pronto
 
