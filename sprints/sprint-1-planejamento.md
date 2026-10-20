@@ -6,7 +6,7 @@ Marina Giacomini Brandão, nos papéis de Product Owner, Scrum Master e Develope
 
 ## Como a sessão foi conduzida
 
-Por se tratar de um projeto individual, a sessão de planejamento foi realizada alternando os papéis do Scrum. Como Product Owner, foram listados e priorizados os itens do Product Backlog de acordo com o valor que entregam para a HQ e com a dependência entre eles. Como Developer, cada item foi estimado em story points, usando a sequência 1, 2, 3, 5 e 8. Como Scrum Master, foram definidas as adaptações do processo para uma equipe de uma pessoa.
+Por se tratar de um projeto individual, a sessão de planejamento foi realizada alternando os papéis do Scrum. Como Product Owner, foram listados e priorizados os itens do Product Backlog de acordo com o valor que entregam para a HQ e com a dependência entre eles. Como Developer, cada item foi estimado em story points, usando a sequência 1, 2, 3, 5 e 8. Como Scrum Master, foram definidas as adaptações do processo para uma pessoa (trabalho realizado individualmente).
 
 ## Objetivo da sprint
 
