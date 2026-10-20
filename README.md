@@ -25,9 +25,26 @@ Para realizarem tudo isso, eles resolvem ir em busca da bruxa boa Ruby, conhecid
 
 ## Organização do trabalho
 
-O projeto segue o Scrum e o Kanban adaptados para apenas uma pessoa. A integrante acumula os papéis de Product Owner, Scrum Master e Developer. As tarefas são acompanhadas em um quadro Kanban com as colunas "A fazer", "Fazendo" e "Feito".
+O projeto segue o Scrum e o Kanban adaptados para uma equipe de uma pessoa. A integrante acumula os papéis de Product Owner, Scrum Master e Developer. O trabalho é dividido em quatro sprints de uma semana.
 
 Todo o conteúdo é desenvolvido na branch principal `main`, e a evolução do projeto a cada sprint pode ser acompanhada pelo histórico de commits do repositório.
+
+### Links do projeto
+
+- [Quadro Kanban](https://github.com/users/ninagb/projects/3/views/1)
+- [Product Backlog](https://github.com/users/ninagb/projects/3/views/2)
+- [Sprint Backlog da Sprint 1](https://github.com/ninagb/HQ-Ada-reino-scrumlandia/milestone/1)
+- [Issues do repositório](https://github.com/ninagb/HQ-Ada-reino-scrumlandia/issues)
+- [Planejamento da Sprint 1](sprints/sprint-1-planejamento.md)
+
+### Definição de Pronto
+
+Um item do backlog só é considerado pronto quando:
+
+- todos os seus critérios de aceitação foram atendidos;
+- os arquivos produzidos estão salvos na pasta correta do repositório;
+- os textos foram revisados;
+- a issue foi fechada e o card está na coluna "Feito".
 
 ## Observação
 
