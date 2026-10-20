@@ -17,13 +17,11 @@ Para realizarem tudo isso, eles resolvem ir em busca da bruxa boa Ruby, conhecid
 
 ## Estrutura inicial da história em quadrinhos
 
-1. **A passagem secreta:** Ada e Kernel descobrem o caminho para ScrumLândia.
-2. **Um novo amigo:** o encontro com IA_go.
-3. **Os desejos:** a chegada de LeonBot e PalhaByte e o início da jornada.
-4. **O plano:** IA_go ensina Ada a planejar a jornada passo a passo para chegar até Ruby.
-5. **Surpresas do caminho:** os desafios da travessia pelas terras da bruxa má BugBug.
-6. **Os trilhos dourados:** a chegada ao Castelo Firewall.
-7. **O desfecho:** o encontro com a bruxa boa Ruby e o fim da aventura.
+1. **Bem-vinda a ScrumLândia:** Ada e Kernel atravessam a passagem secreta, conhecem IA_go e se encantam com as maravilhas do reino.
+2. **Novos amigos:** o encontro com LeonBot e PalhaByte e os primeiros rumores sobre a temida bruxa má BugBug.
+3. **Os desejos:** a amizade cresce, cada um revela o que mais deseja e o grupo decide partir em busca das gemas mágicas da bruxa boa Ruby.
+4. **A jornada:** perigos, trabalho em equipe e uma lição de IA_go sobre como se organizar para vencer os desafios.
+5. **O desfecho:** o encontro com a bruxa boa Ruby e o fim da aventura.
 
 ## Organização do trabalho
 
