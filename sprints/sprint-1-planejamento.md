@@ -18,7 +18,7 @@ Definir a identidade visual e narrativa da HQ e concluir o roteiro dos capítulo
 
 ## Capacidade
 
-16 pontos. Cada uma das quatro sprints foi planejada com uma carga semelhante, entre 12 e 16 pontos.
+16 pontos. O projeto foi planejado em três sprints, com 16 pontos na Sprint 1, 19 na Sprint 2 e 25 na Sprint 3. A Sprint 3 concentra mais pontos porque reúne a produção visual dos capítulos finais. Por isso, ela inclui o item de menor prioridade do backlog (a página bônus), que pode ficar de fora caso a capacidade não seja suficiente.
 
 ## Itens selecionados
 
