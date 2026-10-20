@@ -25,7 +25,7 @@ Para realizarem tudo isso, eles resolvem ir em busca da bruxa boa Ruby, conhecid
 
 ## Organização do trabalho
 
-O projeto segue o Scrum e o Kanban adaptados para uma equipe de uma pessoa. A integrante acumula os papéis de Product Owner, Scrum Master e Developer. O trabalho é dividido em quatro sprints de uma semana.
+O projeto segue o Scrum e o Kanban adaptados para uma pessoa (trabalho realizado individualmente). A integrante acumula os papéis de Product Owner, Scrum Master e Developer. O trabalho é dividido em três sprints de uma semana.
 
 Todo o conteúdo é desenvolvido na branch principal `main`, e a evolução do projeto a cada sprint pode ser acompanhada pelo histórico de commits do repositório.
 
