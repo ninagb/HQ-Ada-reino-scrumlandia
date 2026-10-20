@@ -33,6 +33,7 @@ Todo o conteúdo é desenvolvido na branch principal `main`, e a evolução do p
 
 - [Quadro Kanban](https://github.com/users/ninagb/projects/3/views/1)
 - [Product Backlog](https://github.com/users/ninagb/projects/3/views/2)
+- [Quadro da Sprint 1](https://github.com/users/ninagb/projects/3/views/3)
 - [Sprint Backlog da Sprint 1](https://github.com/ninagb/HQ-Ada-reino-scrumlandia/milestone/1)
 - [Issues do repositório](https://github.com/ninagb/HQ-Ada-reino-scrumlandia/issues)
 - [Planejamento da Sprint 1](sprints/sprint-1-planejamento.md)
