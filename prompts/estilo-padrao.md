@@ -6,7 +6,7 @@ As ilustrações são geradas no ChatGPT e no Gemini, alternando entre as duas f
 
 ## Estilo escolhido
 
-Ilustração digital de livro infantil, em estilo fofo e arredondado, com contornos marcados, cores vivas e saturadas e sombras suaves. O estilo foi escolhido por ser alegre, encantador e adequado ao público infantil, além de manter os personagens bem definidos mesmo em cenas pequenas, como as de meia página dividida.
+Ilustração digital de livro infantil, em estilo fofo e arredondado, com contornos marcados, cores vivas e saturadas e sombras suaves. O estilo foi escolhido por ser alegre, encantador e adequado ao público infantil, além de manter os personagens bem definidos mesmo em cenas pequenas, como as de metade dividida.
 
 ## Texto padrão de estilo
 
@@ -14,13 +14,11 @@ Todos os prompts das ilustrações começam com o texto abaixo:
 
 > Ilustração digital de livro infantil, estilo fofo e arredondado, com contornos marcados, cores vivas e saturadas e sombras suaves. Clima alegre e encantador.
 
-E terminam com as orientações de formato:
+E terminam com a orientação de formato correspondente ao tipo de quadro (conforme `paginas/formato.md`):
 
-> Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem.
-
-Para cenas de página inteira, a orientação de formato muda para:
-
-> Imagem vertical, proporção 2:3. Sem textos, letras ou balões na imagem.
+- **metade inteira:** "Imagem vertical, proporção 2:3. Sem textos, letras ou balões na imagem."
+- **parte de cima ou de baixo de uma metade dividida:** "Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem."
+- **página inteira:** "Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem."
 
 ## Testes realizados
 
