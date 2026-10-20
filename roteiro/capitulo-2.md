@@ -2,6 +2,8 @@
 
 Páginas: 3
 
+Conceitos de Scrum apresentados: impedimento e objetivo da equipe.
+
 ## Página 4
 
 ### Quadro 1 (metade esquerda, inteira; imagem vertical 2:3)
@@ -61,6 +63,7 @@ O espantalho acorda: os olhos de LED acendem, os fios de fibra óptica brilham e
 | PalhaByte | Reiniciando... Ah! Olá! Eu sou o PalhaByte! Obrigado, amigos! Eu estava travado desde ontem, esperando alguém para me ajudar. |
 | PalhaByte | Eu nunca consigo resolver nada sozinho... |
 | Ada | Mas foi você que sabia do botão! Só precisava de uma ajudinha. |
+| IA_go | Sabe, PalhaByte, tudo aquilo que trava a gente se chama impedimento. E quando a gente tem amigos, fica muito mais fácil tirar os impedimentos do caminho! |
 
 ## Página 6
 
@@ -91,5 +94,5 @@ O grupo está sentado em roda, com o leão ainda um pouco envergonhado. Ao longe
 | LeonBot | Ufa! Obrigado! Eu sou o LeonBot. Desculpem o rugido... era um pedido de socorro. |
 | LeonBot | Aquela joaninha é uma espiã da bruxa má BugBug. |
 | PalhaByte | Dizem que ela espalha suas joaninhas pelo reino para causar defeito em tudo. Todas as criaturas desta parte do reino têm medo dela... |
-| IA_go | Ada, para te ajudar a voltar para casa, primeiro a gente precisa sair desta parte do reino, que é dominada pela BugBug. |
+| IA_go | Ada, para te ajudar a voltar para casa, nosso primeiro objetivo é sair desta parte do reino, que é dominada pela BugBug. |
 | Ada | Então vamos ter que ser mais espertos que a bruxa! |
