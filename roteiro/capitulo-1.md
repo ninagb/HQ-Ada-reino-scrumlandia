@@ -2,6 +2,8 @@
 
 Páginas: 3
 
+Conceito de Scrum apresentado: objetivo.
+
 ## Página 1
 
 ### Quadro 1 (metade esquerda, inteira; imagem vertical 2:3)
@@ -15,7 +17,7 @@ Fim de tarde ensolarado num quintal. Ada sobe a escada de corda da casinha na á
 
 ### Quadro 2 (metade direita, parte de cima; imagem horizontal 3:2)
 
-Dentro da casinha, cheia de brinquedos. A mochila está largada num canto, e Kernel fareja uma tábua solta na parede, com o focinho colado nela.
+Dentro da casinha, cheia de brinquedos. A mochila está largada num canto e Kernel fareja uma tábua solta na parede, com o focinho colado nela.
 
 | Personagem | Fala |
 |---|---|
@@ -33,7 +35,7 @@ Ada afasta a tábua e encontra uma portinha escondida, com linhas de luz azul br
 
 ### Quadro 4 (página inteira; imagem horizontal 3:2)
 
-Ada e Kernel atravessam a portinha e chegam a ScrumLândia. A cena mostra um reino colorido e mágico: árvores com folhas em forma de pixels, flores que acendem quando alguém passa, um rio de águas brilhantes, nuvens fofinhas e, ao longe, montanhas e trilhos dourados que somem no horizonte. Ada está boquiaberta, e Kernel tem as orelhas levantadas.
+Ada e Kernel atravessam a portinha e chegam a ScrumLândia. A cena mostra um reino colorido e mágico: árvores com folhas em forma de pixels, flores que acendem quando alguém passa, um rio de águas brilhantes, nuvens fofinhas e, ao longe, montanhas e trilhos dourados que somem no horizonte. Ada está boquiaberta e Kernel tem as orelhas levantadas.
 
 | Personagem | Fala |
 |---|---|
@@ -44,7 +46,7 @@ Ada e Kernel atravessam a portinha e chegam a ScrumLândia. A cena mostra um rei
 
 ### Quadro 5 (metade esquerda, parte de cima; imagem horizontal 3:2)
 
-Ada olha para trás e percebe que a portinha desapareceu. Ela fica preocupada, e Kernel encosta nas pernas dela. Ao fundo, um robozinho desce rolando por uma colina, todo atrapalhado.
+Ada olha para trás e percebe que a portinha desapareceu. Ela fica preocupada e Kernel encosta nas pernas dela. Ao fundo, um robozinho desce rolando por uma colina, todo atrapalhado.
 
 | Personagem | Fala |
 |---|---|
@@ -67,7 +69,8 @@ O robô já está de pé, com os olhos sorridentes na tela e a luz da antena bri
 | Personagem | Fala |
 |---|---|
 | IA_go | Olá! Eu sou o IA_go! Bem-vindos a ScrumLândia! |
-| Ada | Eu sou a Ada, e este é o Kernel. A passagem sumiu... você sabe como a gente volta para casa? |
-| IA_go | Hmm... eu não sei. Mas não fique triste! Vamos descobrir juntos. Alguém do reino deve saber o caminho! |
+| Ada | Eu sou a Ada e este é o Kernel. A passagem sumiu... você sabe como a gente volta para casa? |
+| IA_go | Hmm... eu não sei. Mas não fique triste! Toda grande jornada começa com um objetivo. E o seu é voltar para casa! |
+| IA_go | Alguém do reino deve saber o caminho. Vamos descobrir juntos! |
 | Ada | Promete que vai me ajudar? |
 | IA_go | Palavra de robô! |
