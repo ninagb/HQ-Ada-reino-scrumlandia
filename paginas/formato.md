@@ -17,6 +17,10 @@ Em momentos de destaque da história (como a chegada a ScrumLândia ou o encontr
 
 Assim, cada página tem no mínimo uma e no máximo quatro cenas.
 
+## Quantidade de falas por quadro
+
+Cada quadro tem no máximo três falas, de preferência duas. As onomatopeias não contam como fala. Quando um diálogo passa desse limite, ele é distribuído em novos quadros, mesmo que isso exija uma página a mais. A regra foi criada durante a montagem do capítulo 1, quando um quadro com seis falas ficou apertado demais para a leitura de uma criança.
+
 ## Proporção das imagens
 
 | Tipo de quadro | Proporção da imagem |
@@ -74,24 +78,28 @@ Para agilizar a montagem, foram criados no Canva seis modelos de página, que s�
 
 Quando apenas alguns quadros da página têm narração, usa-se o modelo com barras: as barras que não serão usadas são removidas e as molduras desses quadros são estendidas manualmente até a altura original, ocupando o espaço que era da barra.
 
+## Balões de fala
+
+Os balões de fala são imagens com fundo transparente, contorno preto e texto em Open Sans, gerados a partir dos roteiros, em duas versões: com a ponta à esquerda e com a ponta à direita. Para manter o texto no tamanho 13, cada balão é inserido no Canva com a largura em milímetros indicada na lista que acompanha os arquivos.
+
 ## Quantidade de páginas
 
 | Parte | Páginas |
 |---|---|
 | Capa | 1 |
-| Capítulo 1 | 3 |
-| Capítulo 2 | 3 |
+| Capítulo 1 | 4 |
+| Capítulo 2 | 5 |
 | Capítulo 3 | 3 |
 | Capítulo 4 | 5 |
 | Capítulo 5 | 4 |
 | Página bônus | 1 |
-| **Total** | **20** |
+| **Total** | **23** |
 
-O capítulo 4 tem mais páginas por ser o mais longo e cheio de ação. O capítulo 5 tem uma página a mais que os iniciais para acomodar o encontro com Ruby, o desfecho e o retorno de Ada para casa.
+Os capítulos 1 e 2 ganharam páginas a mais depois da aplicação da regra de no máximo três falas por quadro. A quantidade de páginas dos capítulos 3, 4 e 5 é uma estimativa e será confirmada quando os roteiros forem escritos.
 
 ## Ferramentas de IA generativa
 
-As ilustrações são geradas no ChatGPT e no Gemini, alternando entre as duas ferramentas. Para manter a coerência visual, todos os prompts começam com o mesmo texto padrão de estilo, usam as imagens oficiais dos personagens como referência e respeitam a proporção de altura definida em `personagens/proporcoes.md`.
+As ilustrações são geradas no ChatGPT e no Gemini, alternando entre as duas ferramentas. Para manter a coerência visual, todos os prompts começam com o mesmo texto padrão de estilo, usam as imagens oficiais dos personagens como referência e respeitam a proporção de altura definida em `personagens/proporcoes.md`. A partir do capítulo 3, cada conversa começa com o bloco de referência de `prompts/referencia-personagens.md`.
 
 ## Página de teste
 
