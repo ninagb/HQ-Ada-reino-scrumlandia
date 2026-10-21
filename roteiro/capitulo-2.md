@@ -1,6 +1,6 @@
 # Capítulo 2: Novos amigos
 
-Páginas: 3
+Páginas: 5
 
 Conceitos de Scrum apresentados: impedimento e objetivo da equipe.
 
@@ -62,12 +62,38 @@ O espantalho acorda: os olhos de LED acendem, os fios de fibra óptica brilham e
 |---|---|
 | PalhaByte | Reiniciando... Ah! Olá! Eu sou o PalhaByte! Obrigado, amigos! Eu estava travado desde ontem, esperando alguém para me ajudar. |
 | PalhaByte | Eu nunca consigo resolver nada sozinho... |
-| Ada | Mas foi você que sabia do botão! Só precisava de uma ajudinha. |
-| IA_go | Sabe, PalhaByte, tudo aquilo que trava a gente se chama impedimento. E quando a gente tem amigos, fica muito mais fácil tirar os impedimentos do caminho! |
 
 ## Página 7
 
 ### Quadro 7 (metade esquerda, parte de cima; imagem horizontal 3:2)
+
+Ada coloca a mão no braço de PalhaByte e sorri para ele, encorajando. PalhaByte está cabisbaixo, mas ouve com atenção.
+
+| Personagem | Fala |
+|---|---|
+| Ada | Mas foi você que sabia do botão! Só precisava de uma ajudinha. |
+
+### Quadro 8 (metade esquerda, parte de baixo; imagem horizontal 3:2)
+
+IA_go explica com o dedo levantado, e a tela do rosto dele mostra o desenho de uma pedra no meio de um caminho. PalhaByte coça a cabeça de palha, curioso.
+
+| Personagem | Fala |
+|---|---|
+| IA_go | Sabe, PalhaByte, tudo aquilo que trava a gente se chama impedimento. |
+| PalhaByte | Impedimento? Tipo uma pedra no meio do caminho? |
+
+### Quadro 9 (metade direita, inteira; imagem vertical 2:3)
+
+IA_go abraça PalhaByte de lado, todo contente, com olhos sorridentes na tela. Ada ri e Kernel pula de alegria ao redor deles. PalhaByte brilha em várias cores, emocionado.
+
+| Personagem | Fala |
+|---|---|
+| IA_go | Isso mesmo! E quando a gente tem amigos, fica muito mais fácil tirar as pedras do caminho! |
+| PalhaByte | Amigos? Eu tenho amigos agora! |
+
+## Página 8
+
+### Quadro 10 (metade esquerda, parte de cima; imagem horizontal 3:2)
 
 Um rugido enorme ecoa pelo campo. Todos se assustam: PalhaByte perde um tufo de palha, IA_go pula para trás de Ada e Kernel fica de pelo arrepiado. Atrás de uma pedra, aparece uma sombra grande, com uma juba de cabos e dois olhos brilhando.
 
@@ -76,7 +102,7 @@ Um rugido enorme ecoa pelo campo. Todos se assustam: PalhaByte perde um tufo de 
 | Som | ROOOAAAARRR! |
 | PalhaByte | Q-q-quem está aí? |
 
-### Quadro 8 (metade esquerda, parte de baixo; imagem horizontal 3:2)
+### Quadro 11 (metade esquerda, parte de baixo; imagem horizontal 3:2)
 
 Ada se aproxima, corajosa, e descobre um leão robótico grande encolhido atrás da pedra, tremendo, com uma pequena joaninha robótica pousada no nariz. Kernel late e a joaninha sai voando.
 
@@ -85,7 +111,7 @@ Ada se aproxima, corajosa, e descobre um leão robótico grande encolhido atrás
 | LeonBot | Socorro! Tira isso de mim! |
 | Kernel | Au! Au! Au! |
 
-### Quadro 9 (metade direita, inteira; imagem vertical 2:3)
+### Quadro 12 (metade direita, inteira; imagem vertical 2:3)
 
 O grupo está sentado em roda, com o leão ainda um pouco envergonhado. Ao longe, no horizonte, sob um céu escuro, aparece uma nuvem de joaninhas robóticas e a silhueta de um chapéu pontudo com antenas.
 
@@ -94,5 +120,14 @@ O grupo está sentado em roda, com o leão ainda um pouco envergonhado. Ao longe
 | LeonBot | Ufa! Obrigado! Eu sou o LeonBot. Desculpem o rugido... era um pedido de socorro. |
 | LeonBot | Aquela joaninha é uma espiã da bruxa má BugBug. |
 | PalhaByte | Dizem que ela espalha suas joaninhas pelo reino para causar defeito em tudo. Todas as criaturas desta parte do reino têm medo dela... |
+
+## Página 9
+
+### Quadro 13 (página inteira; imagem horizontal 3:2)
+
+O grupo se levanta, decidido. IA_go aponta para uma trilha que sai do campo de girassóis. De um lado, ao longe, ficam as terras sombrias da bruxa má BugBug, com joaninhas voando; do outro, a trilha segue para um horizonte claro e colorido. Ada, Kernel, PalhaByte e LeonBot olham na direção que IA_go aponta, com expressão de coragem.
+
+| Personagem | Fala |
+|---|---|
 | IA_go | Ada, para te ajudar a voltar para casa, nosso primeiro objetivo é sair desta parte do reino, que é dominada pela BugBug. |
 | Ada | Então vamos ter que ser mais espertos que a bruxa! |
