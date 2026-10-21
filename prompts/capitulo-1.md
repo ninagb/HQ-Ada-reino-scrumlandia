@@ -6,6 +6,8 @@ Os quadros 1 a 6 foram gerados no ChatGPT, na mesma conversa em que a capa foi c
 
 O quadro 7 foi gerado em outra conta do ChatGPT, porque os créditos da primeira acabaram. Por ser uma conversa nova, foram anexadas as imagens oficiais de Ada, Kernel e IA_go e a imagem do quadro 6, como referência de estilo e de cenário.
 
+Os quadros 8, 9 e 10 foram criados depois, quando o diálogo do quadro 7 se mostrou longo demais para um único quadro. A regra adotada passou a ser de no máximo três falas por quadro, e o diálogo foi distribuído numa nova página (página 4). Esses quadros foram gerados na mesma conversa do quadro 7.
+
 As imagens estão na pasta `ilustracoes/capitulo-1`.
 
 ## Mensagem de identificação das referências
@@ -19,7 +21,7 @@ Antes de começarmos as cenas, quero confirmar as referências. Nesta conversa, 
 
 Nas próximas cenas, use essas imagens como referência dos próprios personagens: mantenha a aparência, as roupas, as cores e os traços de cada um exatamente como nelas, sem misturar os traços entre eles. Não gere nenhuma imagem agora, apenas confirme que entendeu.
 
-## Quadro 1 (metade esquerda, inteira; vertical 2:3)
+## Quadro 1 (página 1, metade esquerda, inteira; vertical 2:3)
 
 Agora gere a primeira cena. Use as imagens de referência de Ada e Kernel enviadas nesta conversa.
 
@@ -31,7 +33,7 @@ Deixe um espaço livre no topo da imagem, no céu, para balões de fala.
 
 Imagem vertical, proporção 2:3. Sem textos, letras ou balões na imagem.
 
-## Quadro 2 (metade direita, parte de cima; horizontal 3:2)
+## Quadro 2 (página 1, metade direita, parte de cima; horizontal 3:2)
 
 Mantenha o mesmo estilo de ilustração e a mesma aparência de Ada e Kernel da cena anterior.
 
@@ -41,7 +43,7 @@ Deixe um espaço livre no canto superior da imagem para um balão de fala.
 
 Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem.
 
-## Quadro 3 (metade direita, parte de baixo; horizontal 3:2)
+## Quadro 3 (página 1, metade direita, parte de baixo; horizontal 3:2)
 
 Mantenha o mesmo estilo de ilustração, a mesma casinha e a mesma aparência de Ada e Kernel das cenas anteriores.
 
@@ -51,7 +53,7 @@ Deixe um espaço livre no canto superior da imagem para um balão de fala.
 
 Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem.
 
-## Quadro 4 (página inteira; horizontal 3:2)
+## Quadro 4 (página 2, página inteira; horizontal 3:2)
 
 Mantenha o mesmo estilo de ilustração e a mesma aparência de Ada e Kernel das cenas anteriores.
 
@@ -61,7 +63,7 @@ Deixe um espaço livre no céu para um balão de fala e uma caixa de narração.
 
 Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem.
 
-## Quadro 5 (metade esquerda, parte de cima; horizontal 3:2)
+## Quadro 5 (página 3, metade esquerda, parte de cima; horizontal 3:2)
 
 Use a imagem de referência do robô IA_go enviada nesta conversa e mantenha a aparência dele exatamente como nela. Mantenha também o mesmo estilo de ilustração, o mesmo reino de ScrumLândia e a mesma aparência de Ada e Kernel das cenas anteriores.
 
@@ -71,7 +73,7 @@ Deixe um espaço livre na parte superior da imagem para balões de fala.
 
 Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem.
 
-## Quadro 6 (metade esquerda, parte de baixo; horizontal 3:2)
+## Quadro 6 (página 3, metade esquerda, parte de baixo; horizontal 3:2)
 
 Mantenha o mesmo estilo de ilustração, o mesmo reino de ScrumLândia e a mesma aparência de Ada, Kernel e IA_go das cenas anteriores.
 
@@ -81,7 +83,7 @@ Deixe um espaço livre na parte superior da imagem para um balão de fala.
 
 Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem.
 
-## Quadro 7 (metade direita, inteira; vertical 2:3)
+## Quadro 7 (página 3, metade direita, inteira; vertical 2:3)
 
 Gerado em uma conversa nova, com quatro imagens anexadas: `ada.png`, `kernel.png`, `ia_go.png` e `cap1-q6.png`.
 
@@ -98,5 +100,45 @@ Ilustração digital de livro infantil, estilo fofo e arredondado, com contornos
 Cena: no mesmo reino de ScrumLândia da imagem 4, com árvores de folhas em forma de pixels coloridos e flores que brilham ao fundo. IA_go está de pé, com olhos sorridentes na tela e a luz da antena brilhando, estendendo a mão para Ada de forma acolhedora. Ada está de pé, com o semblante preocupado, segurando Kernel no colo, abraçada a ele. IA_go chega à altura do ombro de Ada.
 
 Deixe um espaço livre na metade superior da imagem para vários balões de fala.
+
+Imagem vertical, proporção 2:3. Sem textos, letras ou balões na imagem.
+
+## Quadro 8 (página 4, metade esquerda, parte de cima; horizontal 3:2)
+
+Use as imagens de referência de Ada, Kernel e IA_go enviadas nesta conversa e mantenha a aparência de cada um exatamente como nelas.
+
+Ilustração digital de livro infantil, estilo fofo e arredondado, com contornos marcados, cores vivas e saturadas e sombras suaves. Clima alegre e encantador.
+
+Cenário: o mesmo lugar da cena em que IA_go estende a mão para Ada, no reino mágico de ScrumLândia, com árvores de folhas em forma de pixels coloridos e flores que brilham ao fundo. Não é o campo de girassóis.
+
+Cena: IA_go está com a mão no queixo, pensativo, e a tela do rosto dele mostra olhos pensativos, olhando para cima. Ada olha para ele com uma expressão triste, segurando Kernel no colo. Kernel também parece desanimado, com as orelhas baixas.
+
+Proporção de altura: IA_go chega à altura do ombro de Ada.
+
+Deixe um espaço livre na parte superior da imagem para um balão de fala.
+
+Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem.
+
+## Quadro 9 (página 4, metade esquerda, parte de baixo; horizontal 3:2)
+
+Mantenha o mesmo estilo de ilustração, o mesmo cenário e a mesma aparência de Ada, Kernel e IA_go da cena anterior.
+
+Cena: IA_go tem uma ideia. Ele levanta o dedo indicador, a luz da antena acende bem forte e a tela do rosto dele mostra o desenho simples de um alvo, com círculos vermelhos e brancos e um ponto no centro. Ada olha para ele com atenção, já um pouco mais animada, ainda segurando Kernel no colo. Kernel levanta as orelhas, curioso.
+
+Proporção de altura: IA_go chega à altura do ombro de Ada.
+
+Deixe um espaço livre na parte superior da imagem para um balão de fala.
+
+Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem.
+
+## Quadro 10 (página 4, metade direita, inteira; vertical 2:3)
+
+Mantenha o mesmo estilo de ilustração, o mesmo reino de ScrumLândia e a mesma aparência de Ada, Kernel e IA_go das cenas anteriores.
+
+Cena: Ada, Kernel e IA_go começam a caminhar juntos por uma trilha de ScrumLândia, que segue entre árvores de folhas em forma de pixels e flores que brilham, em direção a um horizonte colorido. IA_go aponta o caminho à frente com uma das mãos e leva a outra mão ao peito, como quem faz uma promessa, com olhos sorridentes na tela. Ada caminha ao lado dele, sorrindo, esperançosa. Kernel corre animado na frente dos dois, abanando o rabo.
+
+Proporção de altura: Kernel chega à altura do joelho de Ada; IA_go chega à altura do ombro de Ada.
+
+Deixe um espaço livre na metade superior da imagem para três balões de fala.
 
 Imagem vertical, proporção 2:3. Sem textos, letras ou balões na imagem.
