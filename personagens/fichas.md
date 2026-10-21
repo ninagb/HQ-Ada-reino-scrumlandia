@@ -53,7 +53,7 @@ As imagens oficiais de cada personagem estão nesta pasta e servem de referênci
 - **Aparência:** bruxa adulta e mais velha, alta e magra. Tem rosto fino e alongado, nariz comprido e pontudo, queixo pontudo, olhos pequenos e semicerrados, sobrancelhas grossas e arqueadas e cabelo preto, comprido e desgrenhado, com uma mecha roxa. Usa vestido roxo-escuro com detalhes verdes e um chapéu pontudo com antenas de inseto. Anda acompanhada de joaninhas robóticas de casco vermelho de metal.
 - **Personalidade:** ranzinza e bagunceira. Adora criar erros e confusões, mas é mais trapalhona do que assustadora.
 - **Desejo:** manter as criaturas de seu território com medo e ver tudo dar errado.
-- **Papel na história:** vilã. Provoca os perigos do caminho, como o ataque das joaninhas tecnológicas.
+- **Papel na história:** vilã. Voa numa vassoura e comanda o ataque das joaninhas tecnológicas para impedir que o grupo saia de suas terras.
 - **Referência do nome:** "bug" é o nome dado a um erro em um programa, e também significa "inseto" em inglês.
 
 ## Bruxa boa Ruby
@@ -62,7 +62,7 @@ As imagens oficiais de cada personagem estão nesta pasta e servem de referênci
 - **Aparência:** bruxa adulta, alta e elegante. Tem rosto oval, pele morena, olhos verdes e amendoados e cabelos longos, ondulados e acobreados, presos por uma tiara com um rubi. Usa vestido vermelho cintilante, sapatinhos de rubi e uma varinha com um rubi na ponta.
 - **Personalidade:** gentil, sábia e justa. Acredita que todos devem ser felizes enquanto constroem seus sonhos.
 - **Desejo:** ver os moradores de ScrumLândia felizes e confiantes.
-- **Papel na história:** vive no Castelo Firewall e presenteia com gemas mágicas aqueles que verdadeiramente merecem. É ela quem leva Ada de volta para casa.
+- **Papel na história:** vive no Castelo Firewall, um castelo verde-esmeralda protegido por um escudo de luz, e presenteia com gemas aqueles que verdadeiramente merecem. É ela quem propõe a review ao grupo e quem leva Ada de volta para casa.
 - **Referência do nome:** Ruby é uma linguagem de programação criada para tornar a programação simples e feliz. Suas bibliotecas se chamam "gems" (gemas) e seu framework mais famoso é o Ruby on Rails, o que inspirou os trilhos dourados que levam ao castelo.
 
 ## Mãe de Ada
