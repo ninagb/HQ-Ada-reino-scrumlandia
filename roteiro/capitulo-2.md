@@ -4,7 +4,7 @@ Páginas: 3
 
 Conceitos de Scrum apresentados: impedimento e objetivo da equipe.
 
-## Página 4
+## Página 5
 
 ### Quadro 1 (metade esquerda, inteira; imagem vertical 2:3)
 
@@ -35,7 +35,7 @@ O espantalho, com muito esforço, aponta para um botão no próprio peito.
 | PalhaByte | Eu... sei... mas... se... eu... desligar... não... consigo... me... ligar... sozinho... Vocês... me... ajudam? |
 | Ada | Claro! A gente liga você de novo! |
 
-## Página 5
+## Página 6
 
 ### Quadro 4 (metade esquerda, parte de cima; imagem horizontal 3:2)
 
@@ -65,7 +65,7 @@ O espantalho acorda: os olhos de LED acendem, os fios de fibra óptica brilham e
 | Ada | Mas foi você que sabia do botão! Só precisava de uma ajudinha. |
 | IA_go | Sabe, PalhaByte, tudo aquilo que trava a gente se chama impedimento. E quando a gente tem amigos, fica muito mais fácil tirar os impedimentos do caminho! |
 
-## Página 6
+## Página 7
 
 ### Quadro 7 (metade esquerda, parte de cima; imagem horizontal 3:2)
 
