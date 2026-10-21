@@ -10,6 +10,8 @@ Posição dos personagens no acampamento (da esquerda para a direita, em todos o
 
 ### Quadro 1 (metade esquerda, inteira, com narração; imagem vertical 2:3)
 
+**Faixa de título no topo do quadro: Capítulo 3: Os desejos.**
+
 Noite estrelada na beira da trilha. Os amigos acampam sentados juntos na grama. As estrelas do céu parecem pequenos pixels brilhantes, e a cena é iluminada pelo brilho suave dos fios de fibra óptica de PalhaByte e pela luz da antena de IA_go. Da esquerda para a direita: PalhaByte sentado; IA_go; Ada sentada com Kernel no colo; e LeonBot deitado, mais relaxado, em primeiro plano.
 
 | Personagem | Fala |
