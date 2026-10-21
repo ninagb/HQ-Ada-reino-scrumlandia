@@ -13,7 +13,7 @@ Para realizarem tudo isso, eles resolvem ir em busca da bruxa boa Ruby, conhecid
 - Aplicar as metodologias ágeis Scrum e Kanban em um projeto criativo;
 - Utilizar ferramentas de IA generativa para apoiar a criação das ilustrações;
 - Praticar o desenvolvimento iterativo e incremental com o GitHub;
-- Apresentar ao público infantil, de forma lúdica, um pouco dobre o Scrum.
+- Apresentar ao público infantil, de forma lúdica, um pouco sobre o Scrum.
 
 ## Estrutura inicial da história em quadrinhos
 
@@ -33,16 +33,25 @@ Todo o conteúdo é desenvolvido na branch principal `main`, e a evolução do p
 
 - [Quadro Kanban geral](https://github.com/users/ninagb/projects/3/views/1)
 - [Product Backlog](https://github.com/users/ninagb/projects/3/views/2)
-- [Quadro da Sprint 1](https://github.com/users/ninagb/projects/3/views/3)
-- [Sprint Backlog da Sprint 1](https://github.com/ninagb/HQ-Ada-reino-scrumlandia/milestone/1)
 - [Issues do repositório](https://github.com/ninagb/HQ-Ada-reino-scrumlandia/issues)
 
 ### Registros da Sprint 1
 
+- [Quadro da Sprint 1](https://github.com/users/ninagb/projects/3/views/3)
+- [Sprint Backlog da Sprint 1](https://github.com/ninagb/HQ-Ada-reino-scrumlandia/milestone/1)
 - [Planejamento](sprints/sprint-1-planejamento.md)
 - [Reuniões diárias](sprints/sprint-1-daily.md)
 - [Review](sprints/sprint-1-review.md)
 - [Retrospectiva](sprints/sprint-1-retrospectiva.md)
+
+### Registros da Sprint 2
+
+- [Quadro da Sprint 2](https://github.com/users/ninagb/projects/3/views/4)
+- [Sprint Backlog da Sprint 2](https://github.com/ninagb/HQ-Ada-reino-scrumlandia/milestone/2)
+- [Planejamento](sprints/sprint-2-planejamento.md)
+- [Reuniões diárias](sprints/sprint-2-daily.md)
+- [Review](sprints/sprint-2-review.md)
+- [Retrospectiva](sprints/sprint-2-retrospectiva.md)
 
 ### Definição de Pronto
 
