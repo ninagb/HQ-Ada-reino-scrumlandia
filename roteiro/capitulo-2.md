@@ -67,7 +67,7 @@ O espantalho acorda: os olhos de LED acendem, os fios de fibra óptica brilham e
 
 ### Quadro 7 (metade esquerda, parte de cima; imagem horizontal 3:2)
 
-Ada coloca a mão no braço de PalhaByte e sorri para ele, encorajando. PalhaByte está cabisbaixo, mas ouve com atenção.
+Ada coloca a mão no braço de PalhaByte e sorri para ele, encorajando. PalhaByte está cabisbaixo, mas ouve com atenção. A imagem é enquadrada da cintura para cima.
 
 | Personagem | Fala |
 |---|---|
@@ -75,7 +75,7 @@ Ada coloca a mão no braço de PalhaByte e sorri para ele, encorajando. PalhaByt
 
 ### Quadro 8 (metade esquerda, parte de baixo; imagem horizontal 3:2)
 
-IA_go explica com o dedo levantado, e a tela do rosto dele mostra o desenho de uma pedra no meio de um caminho. PalhaByte coça a cabeça de palha, curioso.
+IA_go explica com o dedo levantado, segurando um tablet que mostra o desenho de uma pedra no meio de um caminho. PalhaByte coça a cabeça de palha, curioso.
 
 | Personagem | Fala |
 |---|---|
@@ -123,11 +123,4 @@ O grupo está sentado em roda, com o leão ainda um pouco envergonhado. Ao longe
 
 ## Página 9
 
-### Quadro 13 (página inteira; imagem horizontal 3:2)
-
-O grupo se levanta, decidido. IA_go aponta para uma trilha que sai do campo de girassóis. De um lado, ao longe, ficam as terras sombrias da bruxa má BugBug, com joaninhas voando; do outro, a trilha segue para um horizonte claro e colorido. Ada, Kernel, PalhaByte e LeonBot olham na direção que IA_go aponta, com expressão de coragem.
-
-| Personagem | Fala |
-|---|---|
-| IA_go | Ada, para te ajudar a voltar para casa, nosso primeiro objetivo é sair desta parte do reino, que é dominada pela BugBug. |
-| Ada | Então vamos ter que ser mais espertos que a bruxa! |
+### Quadro 13 (página inteira;
