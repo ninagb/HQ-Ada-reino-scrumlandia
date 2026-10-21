@@ -21,7 +21,7 @@ Para realizarem tudo isso, eles resolvem ir em busca da bruxa boa Ruby, conhecid
 2. **Novos amigos:** o encontro com LeonBot e PalhaByte e os primeiros rumores sobre a temida bruxa má BugBug.
 3. **Os desejos:** a amizade cresce, cada um revela o que mais deseja e o grupo decide partir em busca das gemas mágicas da bruxa boa Ruby.
 4. **A jornada:** perigos, trabalho em equipe e uma lição de IA_go sobre como se organizar para vencer os desafios.
-5. **O desfecho:** o encontro com a bruxa boa Ruby e o fim da aventura.
+5. **O Castelo Firewall:** o encontro com a bruxa boa Ruby e o fim da aventura.
 
 ## Organização do trabalho
 
