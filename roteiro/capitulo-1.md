@@ -1,6 +1,6 @@
 # Capítulo 1: Bem-vinda a ScrumLândia
 
-Páginas: 3
+Páginas: 4
 
 Conceito de Scrum apresentado: objetivo.
 
@@ -70,7 +70,31 @@ O robô já está de pé, com os olhos sorridentes na tela e a luz da antena bri
 |---|---|
 | IA_go | Olá! Eu sou o IA_go! Bem-vindos a ScrumLândia! |
 | Ada | Eu sou a Ada e este é o Kernel. A passagem sumiu... você sabe como a gente volta para casa? |
-| IA_go | Hmm... eu não sei. Mas não fique triste! Toda grande jornada começa com um objetivo. E o seu é voltar para casa! |
+
+## Página 4
+
+### Quadro 8 (metade esquerda, parte de cima; imagem horizontal 3:2)
+
+IA_go coloca a mão no queixo, pensativo, com olhos pensativos na tela. Ada olha para ele triste, segurando Kernel no colo.
+
+| Personagem | Fala |
+|---|---|
+| IA_go | Hmm... eu não sei. Mas não fique triste! |
+
+### Quadro 9 (metade esquerda, parte de baixo; imagem horizontal 3:2)
+
+IA_go tem uma ideia: levanta o dedo indicador, a luz da antena acende bem forte e a tela do rosto mostra o desenho de um alvo. Ada presta atenção, já um pouco mais animada.
+
+| Personagem | Fala |
+|---|---|
+| IA_go | Toda grande jornada começa com um objetivo. E o seu é voltar para casa! |
+
+### Quadro 10 (metade direita, inteira; imagem vertical 2:3)
+
+Ada, Kernel e IA_go começam a caminhar juntos por uma trilha de ScrumLândia. IA_go aponta o caminho à frente com uma das mãos e leva a outra ao peito, como quem faz uma promessa. Ada sorri, esperançosa, e Kernel corre animado ao lado deles.
+
+| Personagem | Fala |
+|---|---|
 | IA_go | Alguém do reino deve saber o caminho. Vamos descobrir juntos! |
 | Ada | Promete que vai me ajudar? |
 | IA_go | Palavra de robô! |
