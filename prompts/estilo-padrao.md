@@ -10,7 +10,7 @@ Ilustração digital de livro infantil, em estilo fofo e arredondado, com contor
 
 ## Texto padrão de estilo
 
-Todos os prompts das ilustrações começam com o texto abaixo:
+Todos os prompts das ilustrações usam o texto abaixo:
 
 > Ilustração digital de livro infantil, estilo fofo e arredondado, com contornos marcados, cores vivas e saturadas e sombras suaves. Clima alegre e encantador.
 
@@ -19,6 +19,21 @@ E terminam com a orientação de formato correspondente ao tipo de quadro (confo
 - **metade inteira:** "Imagem vertical, proporção 2:3. Sem textos, letras ou balões na imagem."
 - **parte de cima ou de baixo de uma metade dividida:** "Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem."
 - **página inteira:** "Imagem horizontal, proporção 3:2. Sem textos, letras ou balões na imagem."
+
+A exceção são os elementos que fazem parte da própria cena, como o holograma do quadro Kanban, em que a IA pode gerar os textos, sem necessidade de que fiquem totalmente nítidos.
+
+## Orientações de composição
+
+### Até o capítulo 2
+
+Os prompts pediam um espaço livre no céu, na parte de cima da imagem, para os balões de fala. Na montagem, os balões acabaram distribuídos perto de cada personagem que fala, e esse espaço central ficou sobrando em várias cenas. As imagens dos capítulos 1 e 2 foram mantidas, porque os balões couberam bem.
+
+### A partir do capítulo 3
+
+- **composição natural:** a cena ocupa a imagem toda, sem um grande espaço vazio reservado aos balões. O prompt pede apenas um pouco de espaço acima da cabeça de cada personagem que fala.
+- **posição pela ordem das falas:** os personagens ficam posicionados da esquerda para a direita na ordem em que falam, seguindo a posição fixa definida no roteiro de cada capítulo.
+- **sinais de movimento:** as cenas podem usar recursos típicos de HQ, como fumacinhas de corrida, linhas de giro, linhas de velocidade e brilhos, para dar mais vida e movimento às ilustrações.
+- **quadros com narração:** como a moldura fica mais baixa por causa da barra de narração, o prompt pede que os personagens fiquem um pouco mais acima na cena.
 
 ## Testes realizados
 
