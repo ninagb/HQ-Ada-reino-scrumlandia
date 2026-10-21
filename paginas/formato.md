@@ -80,7 +80,7 @@ Quando apenas alguns quadros da página têm narração, usa-se o modelo com bar
 
 ## Balões de fala
 
-Os balões de fala são imagens com fundo transparente, contorno preto e texto em Open Sans, gerados a partir dos roteiros, em duas versões: com a ponta à esquerda e com a ponta à direita. Para manter o texto no tamanho 13, cada balão é inserido no Canva com a largura em milímetros indicada na lista que acompanha os arquivos.
+Os balões de fala são montados diretamente no Canva, a partir de um balão modelo com fundo branco, contorno preto e texto em Open Sans tamanho 13, que é copiado e adaptado em cada quadro. A ordem dos balões segue a ordem das falas no roteiro, de cima para baixo e da esquerda para a direita.
 
 ## Quantidade de páginas
 
