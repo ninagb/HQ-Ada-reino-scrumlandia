@@ -21,6 +21,10 @@ Assim, cada página tem no mínimo uma e no máximo quatro cenas.
 
 Cada quadro tem no máximo três falas, de preferência duas. As onomatopeias não contam como fala. Quando um diálogo passa desse limite, ele é distribuído em novos quadros, mesmo que isso exija uma página a mais. A regra foi criada durante a montagem do capítulo 1, quando um quadro com seis falas ficou apertado demais para a leitura de uma criança.
 
+## Posição dos personagens e ordem das falas
+
+Como a leitura segue da esquerda para a direita e de cima para baixo, os personagens são posicionados na cena de acordo com a ordem em que falam: quem fala primeiro fica à esquerda. Isso evita balões muito altos ou maiores que o necessário. Para manter a coerência entre as imagens, cada capítulo define uma posição fixa dos personagens, que é descrita no roteiro e repetida nos prompts de todos os quadros do capítulo. Quando necessário, a ordem das falas é ajustada no roteiro para combinar com essa posição.
+
 ## Proporção das imagens
 
 | Tipo de quadro | Proporção da imagem |
