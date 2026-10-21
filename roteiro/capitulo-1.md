@@ -8,6 +8,8 @@ Conceito de Scrum apresentado: objetivo.
 
 ### Quadro 1 (metade esquerda, inteira; imagem vertical 2:3)
 
+**Faixa de título no topo do quadro: Capítulo 1: Bem-vinda a ScrumLândia.**
+
 Fim de tarde ensolarado num quintal. Ada sobe a escada de corda da casinha na árvore, levando Kernel numa mochila nas costas, com a cabecinha e as patinhas da frente para fora.
 
 | Personagem | Fala |
