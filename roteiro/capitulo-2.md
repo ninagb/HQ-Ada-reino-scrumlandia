@@ -8,6 +8,8 @@ Conceitos de Scrum apresentados: impedimento e objetivo da equipe.
 
 ### Quadro 1 (metade esquerda, inteira; imagem vertical 2:3)
 
+**Faixa de título no topo do quadro: Capítulo 2: Novos amigos.**
+
 IA_go guia Ada e Kernel por um campo de girassóis com o miolo de LED, que viram as cabeças para acompanhá-los. Mais à frente, Kernel late para um espantalho parado no meio do campo, com a cabeça caída para o lado e os olhos de LED piscando fraquinhos.
 
 | Personagem | Fala |
