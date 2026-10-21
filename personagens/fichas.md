@@ -25,7 +25,7 @@ As imagens oficiais de cada personagem estão nesta pasta e servem de referênci
 - **Imagem oficial:** `ia_go.png`
 - **Aparência:** robô pequeno e arredondado, prateado com detalhes em azul-claro. Tem uma antena na cabeça com uma luz que muda de cor conforme o humor e uma tela no rosto que mostra olhos expressivos.
 - **Personalidade:** engraçado, atrapalhado e muito emotivo. Entende tudo de organização e planejamento e adora ensinar.
-- **Desejo:** ter um coração tecnológico, capaz de conectar todos em ScrumLândia.
+- **Desejo:** ter um coração analógico, de verdade, capaz de conectar todos em ScrumLândia.
 - **Papel na história:** guia e amigo de Ada. No capítulo 4, assume o papel de Scrum Master, ensinando o grupo a se organizar.
 - **Referência do nome:** junção de "IA" (inteligência artificial) com "go" (seguir em frente, em inglês).
 
