@@ -13,7 +13,7 @@ A página é dividida ao meio, na vertical, formando duas metades (esquerda e di
 - **metade inteira:** uma única cena ocupa toda a metade;
 - **metade dividida:** a metade é dividida em duas partes, uma em cima e outra embaixo, com uma cena em cada.
 
-Em momentos de destaque da história (como a chegada a ScrumLândia ou o encontro com a bruxa boa Ruby), uma única cena pode ocupar a página inteira.
+Em momentos de destaque da história (como a chegada a ScrumLândia ou a entrega das gemas mágicas), uma única cena pode ocupar a página inteira.
 
 Assim, cada página tem no mínimo uma e no máximo quatro cenas.
 
@@ -65,7 +65,7 @@ Medidas para narração de uma linha (barra de 15,93 mm de altura):
 | Metade direita, parte de baixo | 142 x 82,57 | 150, 106,5 | 142 x 15,93 | 150, 189,07 |
 | Página inteira | 287 x 184,07 | 5, 5 | 287 x 15,93 | 5, 189,07 |
 
-Como a moldura fica mais baixa, a imagem é enquadrada manualmente para escolher a parte que aparece. Nas próximas ilustrações, os prompts dos quadros com narração devem pedir que os personagens fiquem um pouco mais acima na cena.
+Como a moldura fica mais baixa, a imagem é enquadrada manualmente para escolher a parte que aparece.
 
 ## Modelos de página
 
@@ -82,34 +82,36 @@ Para agilizar a montagem, foram criados no Canva seis modelos de página, que s�
 
 Quando apenas alguns quadros da página têm narração, usa-se o modelo com barras: as barras que não serão usadas são removidas e as molduras desses quadros são estendidas manualmente até a altura original, ocupando o espaço que era da barra.
 
+## Faixa de título dos capítulos
+
+O primeiro quadro de cada capítulo recebe, no topo, uma faixa com o número e o nome do capítulo. O roteiro indica a faixa no quadro em que ela deve ser colocada.
+
 ## Balões de fala
 
-Os balões de fala são montados diretamente no Canva, a partir de um balão modelo com fundo branco, contorno preto e texto em Open Sans tamanho 13, que é copiado e adaptado em cada quadro. A ordem dos balões segue a ordem das falas no roteiro, de cima para baixo e da esquerda para a direita.
+Os balões de fala são montados diretamente no Canva, a partir de um balão modelo com fundo branco, contorno preto e texto em Open Sans tamanho 13, que é copiado e adaptado em cada quadro. A ordem dos balões segue a ordem das falas no roteiro, de cima para baixo e da esquerda para a direita. Os pensamentos usam balão em formato de nuvem e as onomatopeias são escritas sem balão, em letras grandes e coloridas.
 
 ## Quantidade de páginas
 
-| Parte | Páginas |
-|---|---|
-| Capa | 1 |
-| Capítulo 1 | 4 |
-| Capítulo 2 | 5 |
-| Capítulo 3 | 3 |
-| Capítulo 4 | 5 |
-| Capítulo 5 | 4 |
-| Página bônus | 1 |
-| **Total** | **23** |
+| Parte | Páginas | Numeração |
+|---|---|---|
+| Capa | 1 | sem número |
+| Capítulo 1: Bem-vinda a ScrumLândia | 4 | 1 a 4 |
+| Capítulo 2: Novos amigos | 5 | 5 a 9 |
+| Capítulo 3: Os desejos | 4 | 10 a 13 |
+| Capítulo 4: A jornada | 7 | 14 a 20 |
+| Capítulo 5: O Castelo Firewall | 9 | 21 a 29 |
+| Página bônus | 1 | 30 |
+| **Total** | **31** | |
 
-Os capítulos 1 e 2 ganharam páginas a mais depois da aplicação da regra de no máximo três falas por quadro. A quantidade de páginas dos capítulos 3, 4 e 5 é uma estimativa e será confirmada quando os roteiros forem escritos.
+A estimativa inicial era de 20 páginas. A HQ cresceu principalmente por causa da regra de no máximo três falas por quadro, aplicada a partir do capítulo 1, e do enriquecimento das cenas de ação e de emoção nos capítulos 4 e 5.
 
 ## Ferramentas de IA generativa
 
-As ilustrações são geradas no ChatGPT e no Gemini, alternando entre as duas ferramentas. Para manter a coerência visual, todos os prompts começam com o mesmo texto padrão de estilo, usam as imagens oficiais dos personagens como referência e respeitam a proporção de altura definida em `personagens/proporcoes.md`. A partir do capítulo 3, cada conversa começa com o bloco de referência de `prompts/referencia-personagens.md`.
+As ilustrações são geradas no ChatGPT e no Gemini, alternando entre as duas ferramentas. Para manter a coerência visual, todos os prompts seguem o estilo definido em `prompts/estilo-padrao.md`, usam as imagens oficiais dos personagens como referência e respeitam a proporção de altura definida em `personagens/proporcoes.md`. A partir do capítulo 3, cada conversa começa com o bloco de referência de `prompts/referencia-personagens.md`.
 
 ## Página de teste
 
 O formato foi testado no Canva com uma página montada a partir das imagens oficiais dos personagens e de um dos testes de estilo, incluindo um balão de fala e uma caixa de narração. O resultado está em `pagina-teste.png`.
-
-Fonte dos balões e da narração: Open Sans, tamanho 13.
 
 O teste mostrou que as molduras do Canva cortam as imagens que não estão na mesma proporção do quadro. Por isso, as ilustrações das cenas devem ser geradas na proporção do quadro em que serão usadas, conforme a tabela de proporção das imagens.
 
