@@ -61,16 +61,16 @@ O espantalho acorda: os olhos de LED acendem, os fios de fibra óptica brilham e
 | Personagem | Fala |
 |---|---|
 | PalhaByte | Reiniciando... Ah! Olá! Eu sou o PalhaByte! Obrigado, amigos! Eu estava travado desde ontem, esperando alguém para me ajudar. |
-| PalhaByte | Eu nunca consigo resolver nada sozinho... |
 
 ## Página 7
 
 ### Quadro 7 (metade esquerda, parte de cima; imagem horizontal 3:2)
 
-Ada coloca a mão no braço de PalhaByte e sorri para ele, encorajando. PalhaByte está cabisbaixo, mas ouve com atenção. A imagem é enquadrada da cintura para cima.
+PalhaByte fica cabisbaixo e um pouco triste. Ada coloca a mão no braço dele e sorri, encorajando-o, e ele ouve com atenção. A imagem é enquadrada da cintura para cima.
 
 | Personagem | Fala |
 |---|---|
+| PalhaByte | Eu nunca consigo resolver nada sozinho... |
 | Ada | Mas foi você que sabia do botão! Só precisava de uma ajudinha. |
 
 ### Quadro 8 (metade esquerda, parte de baixo; imagem horizontal 3:2)
@@ -111,16 +111,4 @@ Ada se aproxima, corajosa, e descobre um leão robótico grande encolhido atrás
 | LeonBot | Socorro! Tira isso de mim! |
 | Kernel | Au! Au! Au! |
 
-### Quadro 12 (metade direita, inteira; imagem vertical 2:3)
-
-O grupo está sentado em roda, com o leão ainda um pouco envergonhado. Ao longe, no horizonte, sob um céu escuro, aparece uma nuvem de joaninhas robóticas e a silhueta de um chapéu pontudo com antenas.
-
-| Personagem | Fala |
-|---|---|
-| LeonBot | Ufa! Obrigado! Eu sou o LeonBot. Desculpem o rugido... era um pedido de socorro. |
-| LeonBot | Aquela joaninha é uma espiã da bruxa má BugBug. |
-| PalhaByte | Dizem que ela espalha suas joaninhas pelo reino para causar defeito em tudo. Todas as criaturas desta parte do reino têm medo dela... |
-
-## Página 9
-
-### Quadro 13 (página inteira;
+### Quadro 12 (metade direita, inteira; imagem
