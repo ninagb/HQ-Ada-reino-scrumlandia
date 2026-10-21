@@ -10,6 +10,8 @@ Posição dos personagens nas cenas em grupo (da esquerda para a direita): IA_go
 
 ### Quadro 1 (metade esquerda, inteira, com narração; imagem vertical 2:3)
 
+**Faixa de título no topo do quadro: Capítulo 4: A jornada.**
+
 Manhã ensolarada na beira da trilha. IA_go, à esquerda, de pé e animado, com a luz da antena piscando, acorda o grupo. Ada se espreguiça, Kernel boceja ao lado dela, PalhaByte esfrega os olhos de LED e LeonBot, à direita, ainda está deitado, sonolento.
 
 | Personagem | Fala |
