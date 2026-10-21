@@ -59,6 +59,21 @@ Medidas para narração de uma linha (barra de 15,93 mm de altura):
 
 Como a moldura fica mais baixa, a imagem é enquadrada manualmente para escolher a parte que aparece. Nas próximas ilustrações, os prompts dos quadros com narração devem pedir que os personagens fiquem um pouco mais acima na cena.
 
+## Modelos de página
+
+Para agilizar a montagem, foram criados no Canva seis modelos de página, que são duplicados e preenchidos a cada nova página da HQ:
+
+| Modelo | Layout | Narração |
+|---|---|---|
+| 1 | metade esquerda inteira e metade direita dividida | sem barras de narração |
+| 2 | metade esquerda dividida e metade direita inteira | sem barras de narração |
+| 3 | metade esquerda inteira e metade direita dividida | com barra de narração em todos os quadros |
+| 4 | metade esquerda dividida e metade direita inteira | com barra de narração em todos os quadros |
+| 5 | página inteira | sem barra de narração |
+| 6 | página inteira | com barra de narração |
+
+Quando apenas alguns quadros da página têm narração, usa-se o modelo com barras: as barras que não serão usadas são removidas e as molduras desses quadros são estendidas manualmente até a altura original, ocupando o espaço que era da barra.
+
 ## Quantidade de páginas
 
 | Parte | Páginas |
@@ -86,4 +101,4 @@ Fonte dos balões e da narração: Open Sans, tamanho 13.
 
 O teste mostrou que as molduras do Canva cortam as imagens que não estão na mesma proporção do quadro. Por isso, as ilustrações das cenas devem ser geradas na proporção do quadro em que serão usadas, conforme a tabela de proporção das imagens.
 
-A página de teste foi montada com margem de 10 mm e espaço de 6 mm entre os quadros. Durante a montagem dos capítulos 1 e 2, esses espaços se mostraram grandes demais e foram reduzidos para 5 mm e 3 mm, aumentando a área das ilustrações. Também foi criado o modelo de quadro com barra de narração colada abaixo da imagem, para que a narração não cubra o desenho.
+A página de teste foi montada com margem de 10 mm e espaço de 6 mm entre os quadros. Durante a montagem dos capítulos 1 e 2, esses espaços se mostraram grandes demais e foram reduzidos para 5 mm e 3 mm, aumentando a área das ilustrações. Também foi criado o modelo de quadro com barra de narração colada abaixo da imagem, para que a narração não cubra o desenho, e foram definidos seis modelos de página para agilizar a montagem.
