@@ -88,7 +88,7 @@ O primeiro quadro de cada capítulo recebe, no topo, uma faixa com o número e o
 
 ## Balões de fala
 
-Os balões de fala são montados diretamente no Canva, a partir de um balão modelo com fundo branco, contorno preto e texto em Open Sans tamanho 13, que é copiado e adaptado em cada quadro. A ordem dos balões segue a ordem das falas no roteiro, de cima para baixo e da esquerda para a direita. Os pensamentos usam balão em formato de nuvem e as onomatopeias são escritas sem balão, em letras grandes e coloridas.
+Os balões de fala são montados diretamente no Canva, a partir de um balão modelo com fundo branco, contorno preto e texto em Open Sans, que é copiado e adaptado em cada quadro. A ordem dos balões segue a ordem das falas no roteiro, de cima para baixo e da esquerda para a direita. Os pensamentos usam balão em formato de nuvem e as onomatopeias são escritas sem balão, em letras grandes e coloridas.
 
 ## Quantidade de páginas
 
@@ -100,19 +100,24 @@ Os balões de fala são montados diretamente no Canva, a partir de um balão mod
 | Capítulo 3: Os desejos | 4 | 10 a 13 |
 | Capítulo 4: A jornada | 7 | 14 a 20 |
 | Capítulo 5: O Castelo Firewall | 9 | 21 a 29 |
-| Página bônus | 1 | 30 |
-| **Total** | **31** | |
+| **Total** | **30** | |
 
 A estimativa inicial era de 20 páginas. A HQ cresceu principalmente por causa da regra de no máximo três falas por quadro, aplicada a partir do capítulo 1, e do enriquecimento das cenas de ação e de emoção nos capítulos 4 e 5.
 
+A página bônus "Scrum para crianças", prevista como página 30, era o item de menor prioridade do backlog e ficou fora da versão final por falta de capacidade na Sprint 3. Os conceitos do Scrum que ela resumiria já são apresentados ao longo da história.
+
+## Publicação
+
+A HQ completa foi exportada do Canva em PDF e comprimida de 141 MB para 21 MB, para respeitar o limite de 25 MB por arquivo do GitHub. O arquivo está em `hq-final/ada-e-a-aventura-no-reino-magico-de-scrumlandia.pdf`.
+
 ## Ferramentas de IA generativa
 
-As ilustrações são geradas no ChatGPT e no Gemini, alternando entre as duas ferramentas. Para manter a coerência visual, todos os prompts seguem o estilo definido em `prompts/estilo-padrao.md`, usam as imagens oficiais dos personagens como referência e respeitam a proporção de altura definida em `personagens/proporcoes.md`. A partir do capítulo 3, cada conversa começa com o bloco de referência de `prompts/referencia-personagens.md`.
+As ilustrações foram geradas no ChatGPT e no Gemini, alternando entre ferramentas e contas por causa do limite de créditos. Para manter a coerência visual, todos os prompts seguem o estilo definido em `prompts/estilo-padrao.md`, usam as imagens oficiais dos personagens como referência e respeitam a proporção de altura definida em `personagens/proporcoes.md`. A partir do capítulo 3, cada conversa começou com o bloco de referência de `prompts/referencia-personagens.md`.
 
 ## Página de teste
 
 O formato foi testado no Canva com uma página montada a partir das imagens oficiais dos personagens e de um dos testes de estilo, incluindo um balão de fala e uma caixa de narração. O resultado está em `pagina-teste.png`.
 
-O teste mostrou que as molduras do Canva cortam as imagens que não estão na mesma proporção do quadro. Por isso, as ilustrações das cenas devem ser geradas na proporção do quadro em que serão usadas, conforme a tabela de proporção das imagens.
+O teste mostrou que as molduras do Canva cortam as imagens que não estão na mesma proporção do quadro. Por isso, as ilustrações das cenas foram geradas na proporção do quadro em que seriam usadas, conforme a tabela de proporção das imagens.
 
 A página de teste foi montada com margem de 10 mm e espaço de 6 mm entre os quadros. Durante a montagem dos capítulos 1 e 2, esses espaços se mostraram grandes demais e foram reduzidos para 5 mm e 3 mm, aumentando a área das ilustrações. Também foi criado o modelo de quadro com barra de narração colada abaixo da imagem, para que a narração não cubra o desenho, e foram definidos seis modelos de página para agilizar a montagem.
