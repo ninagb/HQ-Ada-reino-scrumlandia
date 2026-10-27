@@ -2,6 +2,12 @@
 
 História em quadrinhos infantil criada por Marina Giacomini Brandão, com ilustrações produzidas com o apoio de ferramentas de IA generativa, como atividade da disciplina de Engenharia de Software do curso de Tecnologia em Sistemas para Internet do IFES.
 
+## Leia a HQ
+
+📖 [Ada e a aventura no reino mágico de ScrumLândia (PDF)](hq-final/ada-e-a-aventura-no-reino-magico-de-scrumlandia.pdf)
+
+A HQ tem capa e 29 páginas, divididas em cinco capítulos. As páginas também podem ser vistas separadamente na pasta [paginas](paginas).
+
 ## Descrição do projeto
 
 Ada é uma menina curiosa que, ao brincar em sua casinha na árvore com seu cachorrinho Kernel, descobre uma passagem secreta que os leva ao reino mágico de ScrumLândia. Sem saber como voltar para casa, ela conhece IA_go, um robô atrapalhado e engraçado que se torna seu guia e amigo. Juntos, eles encontram o leão LeonBot e o espantalho PalhaByte, duas criaturas encantadas que vivem nas terras da bruxa má BugBug. Então, Ada e seus amigos embarcam em uma grande aventura em busca da realização de seus desejos. Ada anseia voltar para casa com seu fiel escudeiro Kernel. IA_go quer um coração analógico, de verdade, capaz de conectar todos em ScrumLândia. LeonBot almeja uma atualização do seu Sistema Operacional da Coragem. Por fim, PalhaByte deseja um cérebro turbo para processar mais instruções.
@@ -15,7 +21,7 @@ Para realizarem tudo isso, eles resolvem ir em busca da bruxa boa Ruby, conhecid
 - Praticar o desenvolvimento iterativo e incremental com o GitHub;
 - Apresentar ao público infantil, de forma lúdica, um pouco sobre o Scrum.
 
-## Estrutura inicial da história em quadrinhos
+## Estrutura da história em quadrinhos
 
 1. **Bem-vinda a ScrumLândia:** Ada e Kernel atravessam a passagem secreta, conhecem IA_go e se encantam com as maravilhas do reino.
 2. **Novos amigos:** o encontro com LeonBot e PalhaByte e os primeiros rumores sobre a temida bruxa má BugBug.
@@ -25,7 +31,7 @@ Para realizarem tudo isso, eles resolvem ir em busca da bruxa boa Ruby, conhecid
 
 ## Organização do trabalho
 
-O projeto segue o Scrum e o Kanban adaptados para uma pessoa (trabalho realizado individualmente). A integrante acumula os papéis de Product Owner, Scrum Master e Developer. O trabalho é dividido em três sprints de uma semana.
+O projeto segue o Scrum e o Kanban adaptados para uma pessoa (trabalho realizado individualmente). A integrante acumula os papéis de Product Owner, Scrum Master e Developer. O trabalho foi dividido em três sprints.
 
 Todo o conteúdo é desenvolvido na branch principal `main`, e a evolução do projeto a cada sprint pode ser acompanhada pelo histórico de commits do repositório.
 
@@ -34,6 +40,7 @@ Todo o conteúdo é desenvolvido na branch principal `main`, e a evolução do p
 - [Quadro Kanban geral](https://github.com/users/ninagb/projects/3/views/1)
 - [Product Backlog](https://github.com/users/ninagb/projects/3/views/2)
 - [Issues do repositório](https://github.com/ninagb/HQ-Ada-reino-scrumlandia/issues)
+- [Retrospectiva do projeto](sprints/retrospectiva-do-projeto.md)
 
 ### Registros da Sprint 1
 
@@ -52,6 +59,15 @@ Todo o conteúdo é desenvolvido na branch principal `main`, e a evolução do p
 - [Reuniões diárias](sprints/sprint-2-daily.md)
 - [Review](sprints/sprint-2-review.md)
 - [Retrospectiva](sprints/sprint-2-retrospectiva.md)
+
+### Registros da Sprint 3
+
+- [Quadro da Sprint 3](https://github.com/users/ninagb/projects/3/views/5)
+- [Sprint Backlog da Sprint 3](https://github.com/ninagb/HQ-Ada-reino-scrumlandia/milestone/3)
+- [Planejamento](sprints/sprint-3-planejamento.md)
+- [Reuniões diárias](sprints/sprint-3-daily.md)
+- [Review](sprints/sprint-3-review.md)
+- [Retrospectiva](sprints/sprint-3-retrospectiva.md)
 
 ### Definição de Pronto
 
