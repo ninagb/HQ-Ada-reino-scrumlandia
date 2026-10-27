@@ -205,7 +205,7 @@ Ada acorda em sua cama, num quarto aconchegante, numa linda manhã de sol. Kerne
 
 ### Quadro 21 (metade direita, parte de cima; imagem horizontal 3:2)
 
-Ada, à esquerda, chega correndo na cozinha, de pijama, toda animada, com fumacinhas de corrida atrás dela. A mãe, à direita, se vira, surpresa e sorridente.
+Ada, à esquerda, já vestida com seu vestido azul-celeste, chega correndo na cozinha, toda animada, com fumacinhas de corrida atrás dela. A mãe, à direita, se vira, surpresa e sorridente.
 
 | Personagem | Fala |
 |---|---|
